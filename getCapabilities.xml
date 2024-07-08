@@ -222,11 +222,11 @@
 				<Title>buffered</Title>
 				<Abstract>GH:buffered ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group:shp:::disabledownload:notListing::maxZoom:10</Keyword>
+					<Keyword>group:shp:::disabledownload:notListing::maxZoom:13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="72.42578889999999" miny="8.4289775" maxx="93.60626730000001" maxy="32.7266822"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="72.42578889999999" miny="8.4289775" maxx="93.60626730000001" maxy="32.7266822"></BoundingBox>
+				<LatLonBoundingBox minx="72.5065117" miny="8.4864803" maxx="93.634886" maxy="32.702653"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="72.5065117" miny="8.4864803" maxx="93.634886" maxy="32.702653"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
